@@ -1,4 +1,4 @@
-# Python playwright 职位信息爬虫（拉勾网）
+# Python playwright 职位信息爬虫
 
 一个**开箱即用**的自动化工具，帮你批量抓取「Python 开发」职位。
 
